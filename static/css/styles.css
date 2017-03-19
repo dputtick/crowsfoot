@@ -71,7 +71,7 @@ body {
 /* Article list on index page. */
 
 .posttitle {
-    font-size: 1.6em;
+    font-size: 0.9em;
 }
 
 .posttitle a {
@@ -154,16 +154,16 @@ sub {
 /* Lists */
 
 .article * li {
-    line-height: 1.1em;
+    line-height: 1.0em;
     margin-top: 0.3em;
     margin-bottom: 0.3em;
-    font-size: 0.8em;
+    font-size: 0.95em;
 }
 
 /* Paragraphs. */
 
 .article p {
-    line-height: 1.3em;
+    line-height: 1.5em;
     margin-bottom: 1.5em;
     font-size: 0.8em;
 }
