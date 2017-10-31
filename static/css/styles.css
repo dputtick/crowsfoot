@@ -154,7 +154,7 @@ sub {
 /* Lists */
 
 .article * li {
-    line-height: 1.0em;
+    line-height: 1.4em;
     margin-top: 0.3em;
     margin-bottom: 0.3em;
     font-size: 0.8em;
@@ -172,17 +172,17 @@ sub {
 
 .article h1 {
     padding-bottom: 1em;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 
 .article h2 {
     padding-bottom: 0.8em;
-    font-size: 1em;
+    font-size: 0.85em;
 }
 
 .article h3 {
     padding-bottom: 0.8em;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
 /* Footnotes. */
